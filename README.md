@@ -1,5 +1,4 @@
 # CodeAlpha_Student-Grade-Tracker
-Student Grade Tracker 📊 Console Based Interface
 <div align="center">
 
 # 🎓 Student Grade Tracker – Java
